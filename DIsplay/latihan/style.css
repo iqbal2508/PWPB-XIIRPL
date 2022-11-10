@@ -1,0 +1,76 @@
+* {
+    background-color: lightgray;
+}
+
+.wrapper .bg{
+    width: 100%;
+    height: 40%;
+    background-color: rgb(238, 22, 22);
+    margin: -30px auto;
+}
+
+.wrapper .box-1 {
+    width: 50%;
+    height: 41%;
+    background-color: rgb(255, 255, 255);
+    margin: -180px auto;
+    /* border: 5px dashed lightgreen; */
+}
+
+.wrapper .box-2 {
+    width: 50%;
+    height: 50%;
+    background-color: rgb(251, 254, 255);
+    margin: 250px auto;
+    margin-right: 320px;
+    margin-left: auto;
+    border: 5px dashed lightgreen;
+    padding-bottom: 10px;
+}
+
+.wrapper h2{
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.wrapper .box-4 h4 {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.wrapper .box-4 h4 {
+    text-align: center;
+    background-color: black;
+    color: white;
+
+}
+
+.wrapper .box-1 .foto {
+    width: 250px;
+    height: 233px;
+    margin-top: -20px;
+}
+
+.wrapper .biodata {
+        width: 28%;
+        padding-left: 290px;
+        height: 35%;
+        background-color: rgb(255, 255, 255);
+        margin: -110px auto;
+        color: rgb(0, 0, 0);
+        /* display: inline-block; */
+}
+
+.wrapper .pengalaman {
+    width: 35%;
+    padding-left: 100px;
+    height: 20%;
+    background-color: white;
+    margin: -480px 332px;
+    margin-left: 340px;
+    color: black;
+    text-align: left;
+    /* display: inline-block; */
+}
+
